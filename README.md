@@ -8,13 +8,13 @@ This repository contains my solutions to various Codeforces problems.
 <br>
 
 ## Problems
-| Date | Problem | Name | Difficulty | Solution | Algorithms/Techniques |
-| ---- | ------- | ---- | ---------- | -------- | --------------------- |
+| Date | Problem | Name | Difficulty | Solution | Notes |
+| ---- | ------- | ---- | ---------- | -------- | ----- |
 | 2022-09-11 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A/) | 800 | [C](./problems/4A-Watermelon.c) | |
 
 ## Contests 
-| Date | Contest | Problem | Name | Difficulty | Solution | Algorithms/Techniques |
-| ---- | ------- | ------- | ---- | ---------- | -------- | --------------------- |
+| Date | Contest | Problem | Name | Difficulty | Solution | Notes |
+| ---- | ------- | ------- | ---- | ---------- | -------- | ----- |
 | 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779) | 1779C | [Least Prefix Sum](https://codeforces.com/contest/1779/problem/C/) | N/A | Unsolved | |
 | 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779) | 1779B | [MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B/) | N/A | [C++](./contests/Hello2023/B.cpp) | |
 | 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779) | 1779A | [Hall of Fame](https://codeforces.com/contest/1779/problem/A/) | N/A | [C++](./contests/Hello2023/A.cpp) | |
