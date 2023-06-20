@@ -15,9 +15,9 @@ This repository contains my solutions to various Codeforces problems.
 ## Contests 
 | Date | Contest | Problem | Name | Difficulty | Solution | Notes |
 | ---- | ------- | ------- | ---- | ---------- | -------- | --------------------- |
-| 2023-06-20 | [#881 (Div.3 )](https://codeforces.com/contest/1843/) | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E/) | N/A | Unsolved | |
-| 2023-06-20 | [#881 (Div.3 )](https://codeforces.com/contest/1843/) | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B/) | N/A | [C++](./contests/881/B.cpp) | |
-| 2023-06-20 | [#881 (Div.3 )](https://codeforces.com/contest/1843/) | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A/) | N/A | [C++](./contests/881/A.cpp) | |
+| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E/) | N/A | Unsolved | |
+| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B/) | N/A | [C++](./contests/881/B.cpp) | |
+| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A/) | N/A | [C++](./contests/881/A.cpp) | |
 | 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779C | [Least Prefix Sum](https://codeforces.com/contest/1779/problem/C/) | N/A | Unsolved | |
 | 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779B | [MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B/) | N/A | [C++](./contests/Hello2023/B.cpp) | |
 | 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779A | [Hall of Fame](https://codeforces.com/contest/1779/problem/A/) | N/A | [C++](./contests/Hello2023/A.cpp) | |
