@@ -8,12 +8,12 @@ This repository contains my solutions to various Codeforces problems.
 <br>
 
 ## Problems
-| Date | Problem | Name | Difficulty | Solution | Algorithms/Techniques |
-| ---- | ------- | ---- | ---------- | -------- | --------------------- |
+| Date | Problem | Name | Difficulty | Solution | Notes |
+| ---- | ------- | ---- | ---------- | -------- | ----- |
 | 2022-09-11 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A/) | 800 | [C](./problems/4A-Watermelon.c) | |
 
 ## Contests 
-| Date | Contest | Problem | Name | Difficulty | Solution | Algorithms/Techniques |
+| Date | Contest | Problem | Name | Difficulty | Solution | Notes |
 | ---- | ------- | ------- | ---- | ---------- | -------- | --------------------- |
 | 2023-06-20 | [#881 (Div.3 )](https://codeforces.com/contest/1843/) | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E/) | N/A | Unsolved | |
 | 2023-06-20 | [#881 (Div.3 )](https://codeforces.com/contest/1843/) | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B/) | N/A | [C++](./contests/881/B.cpp) | |
