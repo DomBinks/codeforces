@@ -2,14 +2,15 @@
 This repository contains my solutions to various Codeforces problems.
 <br>[Link to my account (DomBinks)](https://codeforces.com/profile/DomBinks/)<br>
 <br>
-### Problems solved: 7
-### Problems attempted: 11
+### Problems solved: 8
+### Problems attempted: 12
 ### Contests entered: 3
 <br>
 
 ## Problems
 | Date | Problem | Name | Difficulty | Solution | Notes |
 | ---- | ------- | ---- | ---------- | -------- | ----- |
+| 2022-06-22 | 1834A | [Unit Array](https://codeforces.com/problemset/problem/1834/A/) | 800 | [C++](./problems/1834A-Unit-Array.cpp) | |
 | 2022-09-11 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A/) | 800 | [C](./problems/4A-Watermelon.c) | |
 
 ## Contests 
