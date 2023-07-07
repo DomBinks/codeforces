@@ -2,9 +2,9 @@
 This repository contains my solutions to various Codeforces problems.
 <br>[Link to my account (DomBinks)](https://codeforces.com/profile/DomBinks/)<br>
 <br>
-### Problems solved: 8
-### Problems attempted: 12
-### Contests entered: 3
+### Problems solved: 11
+### Problems attempted: 16
+### Contests entered: 4
 <br>
 
 ## Problems
@@ -16,6 +16,10 @@ This repository contains my solutions to various Codeforces problems.
 ## Contests 
 | Date | Contest | Problem | Name | Difficulty | Solution | Notes |
 | ---- | ------- | ------- | ---- | ---------- | -------- | --------------------- |
+| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D/) | N/A | Unsolved | |
+| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846C | [Rudolph and the Another Competition](https://codeforces.com/contest/1846/problem/C/) | N/A | [C++](./contests/883/C.cpp) | Hash map, Priority queue |
+| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846B | [Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B/) | N/A | [C++](./contests/883/B.cpp) | |
+| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846A | [Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A/) | N/A | [C++](./contests/883/A.cpp) | |
 | 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E/) | N/A | Unsolved | |
 | 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B/) | N/A | [C++](./contests/881/B.cpp) | |
 | 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A/) | N/A | [C++](./contests/881/A.cpp) | |
