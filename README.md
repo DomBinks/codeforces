@@ -2,8 +2,8 @@
 This repository contains my solutions to various Codeforces problems.
 <br>[Link to my account (DomBinks)](https://codeforces.com/profile/DomBinks/)<br>
 <br>
-### Problems solved: 11
-### Problems attempted: 16
+### Problems solved: 14
+### Problems attempted: 21
 ### Contests entered: 4
 <br>
 
@@ -16,6 +16,11 @@ This repository contains my solutions to various Codeforces problems.
 ## Contests 
 | Date | Contest | Problem | Name | Difficulty | Solution | Notes |
 | ---- | ------- | ------- | ---- | ---------- | -------- | --------------------- |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [We Were Both Children](https://codeforces.com/contest/1850/problem/F/) | N/A | Unsolved | |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [Balanced Round](https://codeforces.com/contest/1850/problem/D/) | N/A | Unsolved | |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [Word on the Paper](https://codeforces.com/contest/1850/problem/C/) | N/A | [C++](./contests/886/c.cpp) | |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B/) | N/A | [C++](./contests/886/b.cpp) | |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [To My Critcs](https://codeforces.com/contest/1850/problem/A/) | N/A | [C++](./contests/886/a.cpp) | |
 | 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D/) | N/A | Unsolved | |
 | 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846C | [Rudolph and the Another Competition](https://codeforces.com/contest/1846/problem/C/) | N/A | [C++](./contests/883/C.cpp) | Hash map, Priority queue |
 | 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846B | [Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B/) | N/A | [C++](./contests/883/B.cpp) | |
