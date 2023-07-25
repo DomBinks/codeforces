@@ -3,8 +3,8 @@ This repository contains my solutions to various Codeforces problems.
 <br>[Link to my account (DomBinks)](https://codeforces.com/profile/DomBinks/)<br>
 <br>
 ### Problems solved: 14
-### Problems attempted: 21
-### Contests entered: 4
+### Problems attempted: 24
+### Contests entered: 5
 <br>
 
 ## Problems
@@ -16,21 +16,24 @@ This repository contains my solutions to various Codeforces problems.
 ## Contests 
 | Date | Contest | Problem | Name | Difficulty | Solution | Notes |
 | ---- | ------- | ------- | ---- | ---------- | -------- | --------------------- |
-| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [We Were Both Children](https://codeforces.com/contest/1850/problem/F/) | N/A | Unsolved | |
-| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [Balanced Round](https://codeforces.com/contest/1850/problem/D/) | N/A | Unsolved | |
-| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [Word on the Paper](https://codeforces.com/contest/1850/problem/C/) | N/A | [C++](./contests/886/c.cpp) | |
-| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B/) | N/A | [C++](./contests/886/b.cpp) | |
+| 2023-07-25 | [#888 (Div. 3)](https://codeforces.com/contest/1851/) | 1851D | [Prefix Permutation Sums](https://codeforces.com/contest/1851/problem/D/) | N/A | Unsolved | |
+| 2023-07-25 | [#888 (Div. 3)](https://codeforces.com/contest/1851/) | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B/) | N/A | [C++](./contests/888/b.cpp) | |
+| 2023-07-25 | [#888 (Div. 3)](https://codeforces.com/contest/1851/) | 1851A | [Escalator Conversations](https://codeforces.com/contest/1851/problem/A/) | N/A | [C++](./contests/888/a.cpp) | |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850F | [We Were Both Children](https://codeforces.com/contest/1850/problem/F/) | N/A | Unsolved | |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D/) | N/A | Unsolved | |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850C | [Word on the Paper](https://codeforces.com/contest/1850/problem/C/) | N/A | [C++](./contests/886/c.cpp) | |
+| 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B/) | N/A | [C++](./contests/886/b.cpp) | |
 | 2023-07-21 | [#886 (Div. 4)](https://codeforces.com/contest/1850/) | 1850A | [To My Critcs](https://codeforces.com/contest/1850/problem/A/) | N/A | [C++](./contests/886/a.cpp) | |
-| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D/) | N/A | Unsolved | |
-| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846C | [Rudolph and the Another Competition](https://codeforces.com/contest/1846/problem/C/) | N/A | [C++](./contests/883/C.cpp) | Hash map, Priority queue |
-| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846B | [Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B/) | N/A | [C++](./contests/883/B.cpp) | |
-| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846A | [Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A/) | N/A | [C++](./contests/883/A.cpp) | |
-| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E/) | N/A | Unsolved | |
-| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B/) | N/A | [C++](./contests/881/B.cpp) | |
-| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A/) | N/A | [C++](./contests/881/A.cpp) | |
-| 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779C | [Least Prefix Sum](https://codeforces.com/contest/1779/problem/C/) | N/A | Unsolved | |
-| 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779B | [MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B/) | N/A | [C++](./contests/Hello2023/B.cpp) | |
-| 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779A | [Hall of Fame](https://codeforces.com/contest/1779/problem/A/) | N/A | [C++](./contests/Hello2023/A.cpp) | |
+| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846D | [Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D/) | 1200 | Unsolved | |
+| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846C | [Rudolph and the Another Competition](https://codeforces.com/contest/1846/problem/C/) | 1200 | Unsolved | Hash map, Priority queue |
+| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846B | [Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B/) | 800 | Hacked | |
+| 2023-07-07 | [#883 (Div. 3)](https://codeforces.com/contest/1846/) | 1846A | [Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A/) | 800 | [C++](./contests/883/A.cpp) | |
+| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843E | [Tracking Segments](https://codeforces.com/contest/1843/problem/E/) | 1600 | Unsolved | |
+| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B/) | 800 | [C++](./contests/881/B.cpp) | |
+| 2023-06-20 | [#881 (Div. 3)](https://codeforces.com/contest/1843/) | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A/) | 800 | [C++](./contests/881/A.cpp) | |
+| 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779C | [Least Prefix Sum](https://codeforces.com/contest/1779/problem/C/) | 1600 | Unsolved | |
+| 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779B | [MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B/) | 900 | [C++](./contests/Hello2023/B.cpp) | |
+| 2023-01-03 | [Hello 2023](https://codeforces.com/contest/1779/) | 1779A | [Hall of Fame](https://codeforces.com/contest/1779/problem/A/) | 800 | [C++](./contests/Hello2023/A.cpp) | |
 | 2022-09-12 | [#820 (Div. 3)](https://codeforces.com/contest/1729/) | 1729C | [Jumping on Tiles](https://codeforces.com/contest/1729/problem/C/) | 1100 | Unsolved | |
 | 2022-09-12 | [#820 (Div. 3)](https://codeforces.com/contest/1729/) | 1729B | [Decode String](https://codeforces.com/contest/1729/problem/B/) | 800 | [C](./contests/820/B.c) | |
 | 2022-09-12 | [#820 (Div. 3)](https://codeforces.com/contest/1729/) | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A/) | 800 | [C](./contests/820/A.c) | |
