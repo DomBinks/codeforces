@@ -2,9 +2,9 @@
 This repository contains my solutions to various Codeforces problems.
 <br>[Link to my account (DomBinks)](https://codeforces.com/profile/DomBinks/)<br>
 <br>
-### Problems solved: 14
-### Problems attempted: 24
-### Contests entered: 5
+### Problems solved: 12
+### Problems attempted: 27
+### Contests entered: 6
 <br>
 
 ## Problems
@@ -16,6 +16,9 @@ This repository contains my solutions to various Codeforces problems.
 ## Contests 
 | Date | Contest | Problem | Name | Difficulty | Solution | Notes |
 | ---- | ------- | ------- | ---- | ---------- | -------- | --------------------- |
+| 2023-08-07 | [#891 (Div. 3](https://codeforces.com/contest/1857) | 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C/) | N/A | Unsolved | |
+| 2023-08-07 | [#891 (Div. 3](https://codeforces.com/contest/1857) | 1857B | [Maxiumum Rounding](https://codeforces.com/contest/1857/problem/B/) | N/A | [C++](./contests/891/b.cpp) | |
+| 2023-08-07 | [#891 (Div. 3](https://codeforces.com/contest/1857) | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A/) | N/A | [C++](./contests/891/a.cpp) | |
 | 2023-07-25 | [#888 (Div. 3)](https://codeforces.com/contest/1851/) | 1851D | [Prefix Permutation Sums](https://codeforces.com/contest/1851/problem/D/) | N/A | Unsolved | |
 | 2023-07-25 | [#888 (Div. 3)](https://codeforces.com/contest/1851/) | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B/) | N/A | [C++](./contests/888/b.cpp) | |
 | 2023-07-25 | [#888 (Div. 3)](https://codeforces.com/contest/1851/) | 1851A | [Escalator Conversations](https://codeforces.com/contest/1851/problem/A/) | N/A | [C++](./contests/888/a.cpp) | |
